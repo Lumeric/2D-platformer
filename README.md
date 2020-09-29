@@ -1,3 +1,4 @@
-# unityProjects
-My projects made with Unity.
-The first project is 2D-platformer game.
+# 2d-platformer
+The 2d-platformer game was my first project made with Unity.
+It was the thesis of my graduate work.
+
